@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Erockk I'm a firmware engineer
 - 👀 I’m interested in ... making fun projects 
-- 🌱 I’m currently learning ... Swift to creat a new app!
+- 🌱 I’m currently learning ... Swift to create a new app!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... erikolson90@gmail.com
 
